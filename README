@@ -1,0 +1,3 @@
+Amazon Dynamo-style distributed key value storage: 
+
+Designed and implemented quorum based replicated key value storage with consistent hashing, that provides high availability, eventual consistency, fault tolerance, and also supports dynamic addition and deletion of nodes according to the chord protocol of DHT.
